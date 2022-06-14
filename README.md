@@ -1,6 +1,9 @@
 **Important note: this project [is changing stewardship to Nrwl](https://github.com/lerna/lerna/issues/3121)! Your favorite tool will continue to live on. Stay tuned for updates and soon a project roadmap!**
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <p align="center">
